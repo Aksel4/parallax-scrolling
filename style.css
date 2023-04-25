@@ -3,7 +3,7 @@ p {
   font-family: Lato;
 }
 div {
-  background-color: whitesmoke;
+  background-color: orangered;
   margin: 0%;
   padding: 0%;
   border: 0%;
@@ -11,8 +11,9 @@ div {
 .top {
   text-align: center;
   color: black;
-  background-color: whitesmoke;
+  background-color: aqua;
   padding-top: 20%;
+  font-size: x-large;
 }
 
 .bottom {
@@ -20,12 +21,15 @@ div {
   background-color: black;
   color: white;
   padding-top: 20%;
+  font-size: x-large;
 }
 
 .b2 {
   text-align: center;
   background-color: yellow;
   color: blue;
+  padding-top: 20%;
+
   font-size: x-large;
 }
 
@@ -33,4 +37,15 @@ div {
   text-align: center;
   background-color: black;
   color: white;
+  padding-top: 20%;
+
+  font-size: x-large;
+}
+
+.b4 {
+  text-align: center;
+  color: black;
+  padding-top: 20%;
+
+  font-size: x-large;
 }
