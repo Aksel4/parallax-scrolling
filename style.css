@@ -1,0 +1,36 @@
+h1,
+p {
+  font-family: Lato;
+}
+div {
+  background-color: whitesmoke;
+  margin: 0%;
+  padding: 0%;
+  border: 0%;
+}
+.top {
+  text-align: center;
+  color: black;
+  background-color: whitesmoke;
+  padding-top: 20%;
+}
+
+.bottom {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding-top: 20%;
+}
+
+.b2 {
+  text-align: center;
+  background-color: yellow;
+  color: blue;
+  font-size: x-large;
+}
+
+.b3 {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
