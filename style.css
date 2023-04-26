@@ -2,12 +2,26 @@ h1,
 p {
   font-family: Lato;
 }
+
+body {
+  background: orangered;
+
+  margin: 0%;
+}
 div {
   background-color: orangered;
   margin: 0%;
   padding: 0%;
   border: 0%;
 }
+
+.navbar {
+  text-align: center center;
+  align-items: center center;
+  background-color: beige;
+  font-size: larger;
+}
+
 .top {
   text-align: center;
   color: black;
@@ -18,10 +32,10 @@ div {
 
 .bottom {
   text-align: center;
-  background-color: black;
   color: white;
   padding-top: 20%;
   font-size: x-large;
+  background: #6a2a2a;
 }
 
 .b2 {

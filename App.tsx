@@ -5,7 +5,7 @@ import { Parallax, ParallaxLayer } from '@react-spring/parallax';
 export default function App() {
   return (
     <div>
-      <div>elo</div>
+      <div className="navbar"> Navbar</div>
       <div>
         <Parallax pages={5}>
           <ParallaxLayer
@@ -46,7 +46,7 @@ export default function App() {
 
           <ParallaxLayer
             speed={0.3}
-            sticky={{ start: 4, end: 4 }}
+            sticky={{ start: 4, end: 5 }}
             className="b4"
           >
             Kontakt meg
